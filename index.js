@@ -48,3 +48,8 @@ const fs = require('fs');
     console.log(data)
 });
 console.log('file read successfully');
+
+
+
+
+// thapa kai sath working pori jarahi hai 
