@@ -1,0 +1,24 @@
+[
+    {
+        "name" : "iphone",
+        "price" : 110 ,
+        "feature" : true 
+    },
+
+   {
+    "name" : "iphoneX",
+    "price" : 1100 ,
+    "feature" : true 
+   },
+   {
+    "name" : "iphone12",
+    "price" : 14500 ,
+    "feature" : true 
+   },
+
+   {
+    "name" : "iphone14promax",
+    "price" : 1400500 ,
+    "feature" : true 
+   }
+]
